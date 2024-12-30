@@ -1,8 +1,9 @@
- name: CI/CD for Angular
+name: CI/CD for Angular
+
 on:
   push:
     branches:
-      - main  
+      - main
       - ajout-fonctionnalite-1
       - nouvelle-fonctionnalite
 
